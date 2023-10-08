@@ -39,7 +39,7 @@ combinedlist
 # with three different classes (character, numeric, integer)
 a = c('Hungary', "Italy", "Netherland")
 b = (rnorm(10))
-c = 30:45
+c = 40:55
 # name the elements a:c.
 myexlist = list(a=a,b=b,c=c)
 # You choose length and values.
